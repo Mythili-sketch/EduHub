@@ -1,0 +1,7 @@
+{
+  "name": "EduHub by DeepTutor",
+  "description": "The open registry and marketplace for portable AI tutoring skills, compatible with DeepTutor, Claude Code, and autonomous learning agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
